@@ -241,7 +241,4 @@ main {
         flex-direction: column;
         justify-content: space-between;
     }
-    .robo {
-        height: 100%;
-    }
 }
